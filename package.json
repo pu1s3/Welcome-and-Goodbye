@@ -2,7 +2,7 @@
 	"name": "tutorial-bot",
 	"version": "1.0.0",
 	"main": "src/index.js",
-	"author": "Ferotiq",
+	"author": "Pu1s3",
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
@@ -10,5 +10,5 @@
 	},
 	"engines": {
 		"node": "16.x"
-	}
+	  }
 }
