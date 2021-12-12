@@ -8,4 +8,4 @@ const config = require("./Data/config.json");
 
 const client = new Client();
 
-client.start(config.token);
+client.login(process.env.TOKEN);
