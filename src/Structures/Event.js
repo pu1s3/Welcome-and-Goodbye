@@ -26,4 +26,4 @@ class Event {
 }
 
 module.exports = Event;
-console.log(console.error())
+console.log(console.error(err))

@@ -9,4 +9,4 @@ const config = require("./Data/config.json");
 const client = new Client();
 
 client.login(process.env.TOKEN);
-console.log(console.error())
+console.log(console.error(err))
